@@ -30,11 +30,11 @@ services:
       - key: LOG_MSG
         value: "false"
       - key: AUTO_STATUS_VIEW
-        value: "false"
+        value: "yes"
       - key: READ_MSG
         value: "false"
       - key: ALWAYS_ONLINE
-        value: "false"
+        value: "yes"
       - key: START_MSG
         value: "true"
       - key: PORT
